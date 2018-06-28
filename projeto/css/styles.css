@@ -1,0 +1,13 @@
+#sidenav {
+	background-color: #333333;
+	color: #888;
+	padding-right: 0;
+}
+
+#sidenav a {
+	color: #888;
+}
+
+#sidenav .navbar {
+	margin-left: -15px;
+}
